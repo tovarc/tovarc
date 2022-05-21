@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Jose Tovar and I’m obsessed with all things about programming.
+
+After earning my certificate in web development from online courses and being self taught, I entered the freelancer world to explore my passion for frontend with frameworks as **Angular and React**, backend with **NodeJS, ExpressJS, NestJS, Flask, FastAPI** and full stack web apps using programming languages like **JavaScript, TypeScript and Python.**
+
+I’ve spent the last 4 years learning everything there is to know about the web development industry from backend to deployment.
+
+I’m always happy to connect with new people and discuss their projects. Shoot me a message – I look forward to hearing from you!
