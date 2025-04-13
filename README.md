@@ -1,24 +1,16 @@
-### Hi there 👋
+## 👋 ¡Hola! Soy Jose Tovar
 
-<!--
-**tovarc/tovarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web con más de **9 años de experiencia**, especializado en crear **soluciones digitales escalables, eficientes y centradas en el usuario**.
 
-Here are some ideas to get you started:
+💼 A lo largo de mi carrera he trabajado con empresas de distintos países como **España, EE.UU., Perú y Ecuador**, además de forjar una sólida trayectoria como **freelance**, completando **más de 124 proyectos** con excelentes valoraciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 **Stack principal**:
+- Frontend: **Angular**, **Svelte**, **TailwindCSS**
+- Backend: **Litestar (Python)**
+- Base de datos: **PostgreSQL**
+- Infraestructura: **AWS**, **Azure**, **VPS**
+- Otros: Tecnologías modernas de desarrollo web y herramientas para CI/CD
 
-I’m Jose Tovar.
+🤝 He trabajado en **equipos multidisciplinares con metodologías ágiles**, y también he liderado proyectos de forma autónoma, incluyendo tareas de **despliegue y mantenimiento de infraestructura**.
 
-After earning my certificate in web development from online courses and being self taught, I entered the freelancer world to explore my passion for frontend with frameworks as **Angular and React**, backend with **NodeJS, ExpressJS, NestJS, Flask, FastAPI** and full stack web apps using programming languages like **JavaScript, TypeScript and Python.**
-
-I’ve spent the last 4 years learning everything there is to know about the web development industry from backend to deployment.
-
-I’m always happy to connect with new people and discuss their projects. Shoot me a message – I look forward to hearing from you!
+---
