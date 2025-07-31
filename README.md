@@ -6,9 +6,9 @@ Soy desarrollador web con más de **9 años de experiencia**, especializado en c
 
 🧰 **Stack principal**:
 - Frontend: **Angular**, **Svelte**, **TailwindCSS**
-- Backend: **Litestar (Python)**
+- Backend: **FastAPI**, **Django**
 - Base de datos: **PostgreSQL**
-- Infraestructura: **AWS**, **Azure**, **VPS**
+- Infraestructura: **AWS**
 - Otros: Tecnologías modernas de desarrollo web y herramientas para CI/CD
 
 🤝 He trabajado en **equipos multidisciplinares con metodologías ágiles**, y también he liderado proyectos de forma autónoma, incluyendo tareas de **despliegue y mantenimiento de infraestructura**.
